@@ -1,0 +1,3 @@
+kind: app
+tech: expo
+deploy: none   # mobile: build via EAS, sem ingress/DNS/K8s
